@@ -1,0 +1,18 @@
+settings =
+{
+    --[[
+    orientation = {
+        default = 'portrait',
+        supported = { 'portrait', 'portraitUpsideDown' },
+        -- supported = { 'landscapeLeft', 'landscapeRight', 'portrait', 'portraitUpsideDown', },
+    },
+    --]]
+    plugins = 
+    {
+        ['CoronaProvider.gameNetwork.google'] = { publisherId = 'com.coronalabs', supportedPlatforms = { android=true } },
+    },
+    android =
+    {
+        googlePlayGamesAppId = 'Your-GPGS-AppID',
+    },
+}
