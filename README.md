@@ -1,9 +1,9 @@
 ## README ##
 
-### Android Tester App for Corona SDK Google Play Game Services Plugin ###
-* Corona SDK Google Play Game Services [Plugin API] (https://docs.coronalabs.com/daily/plugin/gameNetwork-google/index.html)
+### Android Tester App for Corona SDK Google Play Game Services (Legacy) Plugin ###
+* Corona SDK Google Play Game Services (Legacy) [Plugin API] (https://docs.coronalabs.com/daily/plugin/gameNetwork-google/index.html)
 
-This test app project implements all the features of the Corona SDK Google Play Game Services Plugin.
+This test app project implements all the features of the Corona SDK Google Play Game Services (Legacy) Plugin.
 
 ### Requirements ###
 * [Corona SDK] (https://coronalabs.com)
